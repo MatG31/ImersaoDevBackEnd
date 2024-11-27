@@ -1,0 +1,11 @@
+Chave API Gemini
+AIzaSyDuzMtcPhQ_YNxmR3hiamcYzHymVIn2szk
+
+Usuário Banco Mongo DB
+ImersaoMGamel
+
+Senha Banco Mongo DB
+tfYnKkI5bRZhyxK4
+
+String de Conexão
+mongodb+srv://ImersaoMGamel:tfYnKkI5bRZhyxK4@cluster0.tzi4o.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
